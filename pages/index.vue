@@ -6,17 +6,20 @@
       <article class="mt-6">
         <div class="text-md">
           <div class="mt-0">
-            <p>Hey, I'm Jean-Pierre Carvalho.</p>
+            <p>
+              Yo, what's up? Jean-Pierre in the house, proudly rocking the
+              developer vibe! 👨‍💻
+            </p>
           </div>
           <div class="mt-4">
-            <p>Staff Frontend Engineer</p>
+            <p>What I am? A Staff Frontend Engineer</p>
+            <p>Where? In Porto, Portugal 🇵🇹</p>
             <p>
               Working at
               <a href="https://team.emma-sleep.com/about-emma" target="_blank"
                 >Emma Sleep Company</a
               >
             </p>
-            <p>Living in Porto, Portugal 🇵🇹</p>
           </div>
           <div class="mt-8">
             <p>
