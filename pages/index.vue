@@ -2,7 +2,7 @@
   <header class=""></header>
   <main class="mt-24">
     <div class="m-auto max-w-2xl">
-      <h1 class="text-4xl font-bold headline">Jean-Pierre Carvalho</h1>
+      <h1 class="text-6xl font-bold headline">Hey, I'm Jean-Pierre Carvalho</h1>
       <article class="mt-6">
         <div class="text-md">
           <div class="mt-0">
