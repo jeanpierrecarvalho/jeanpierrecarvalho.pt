@@ -3,12 +3,12 @@ export default defineNuxtConfig({
   app: {
     head: {
       htmlAttrs: {
-        lang: 'en'
+        lang: 'en',
       },
       charset: 'utf-8',
       viewport: 'width=device-width, initial-scale=1',
-    }
-  }
+    },
+  },
   devtools: { enabled: true },
   modules: ['@nuxtjs/tailwindcss'],
   buildModules: ['@nuxtjs/google-fonts'],
