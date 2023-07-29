@@ -85,7 +85,7 @@
           </div>
         </div>
       </div>
-      <h2 class="text-4xl font-bold mt-16">Education</h2>
+      <h2 class="text-4xl font-bold mt-16">Check Out My Badges</h2>
       <div
         class="mt-8 w-full border-2 p-4"
         v-for="certification in certifications"
