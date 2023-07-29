@@ -134,6 +134,14 @@ useHead({
   title: 'About me',
   meta: [{ name: 'jeanpierrecarvalho.pt', content: 'My amazing site.' }],
 })
+useSeoMeta({
+  title: 'My Amazing Site',
+  ogTitle: 'My Amazing Site',
+  description: 'This is my amazing site, let me tell you all about it.',
+  ogDescription: 'This is my amazing site, let me tell you all about it.',
+  ogImage: 'https://example.com/image.png',
+  twitterCard: 'summary_large_image',
+})
 const current_year = new Date().getFullYear()
 const jobs = [
   {
