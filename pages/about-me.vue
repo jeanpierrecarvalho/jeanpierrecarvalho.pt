@@ -132,6 +132,7 @@
 <script setup lang="ts">
 useHead({
   title: 'About me',
+  meta: [{ name: 'jeanpierrecarvalho.pt', content: 'My amazing site.' }],
 })
 const current_year = new Date().getFullYear()
 const jobs = [

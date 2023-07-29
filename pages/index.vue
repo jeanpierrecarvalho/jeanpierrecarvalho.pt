@@ -48,6 +48,7 @@
 <script setup lang="ts">
 useHead({
   title: 'Intro Page',
+  meta: [{ name: 'jeanpierrecarvalho.pt', content: 'My amazing site.' }],
 })
 const current_year = new Date().getFullYear()
 </script>
