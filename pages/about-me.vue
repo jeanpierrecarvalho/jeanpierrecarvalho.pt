@@ -130,6 +130,9 @@
 </template>
 
 <script setup lang="ts">
+useHead({
+  title: 'About me',
+})
 const current_year = new Date().getFullYear()
 const jobs = [
   {

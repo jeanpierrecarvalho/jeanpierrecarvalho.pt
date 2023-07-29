@@ -46,5 +46,8 @@
 </template>
 
 <script setup lang="ts">
+useHead({
+  title: 'Intro Page',
+})
 const current_year = new Date().getFullYear()
 </script>
